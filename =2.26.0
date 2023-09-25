@@ -1,0 +1,8 @@
+Collecting requests
+  Using cached requests-2.31.0-py3-none-any.whl (62 kB)
+Requirement already satisfied: certifi>=2017.4.17 in ./p2/lib/python3.10/site-packages (from requests) (2023.7.22)
+Requirement already satisfied: idna<4,>=2.5 in ./p2/lib/python3.10/site-packages (from requests) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./p2/lib/python3.10/site-packages (from requests) (2.0.4)
+Requirement already satisfied: charset-normalizer<4,>=2 in ./p2/lib/python3.10/site-packages (from requests) (3.2.0)
+Installing collected packages: requests
+Successfully installed requests-2.31.0
